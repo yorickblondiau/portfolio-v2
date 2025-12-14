@@ -1,4 +1,4 @@
-#  Portfolio V2 — Commande 2
+ Portfolio V2 — Commande 2
 HEPH Condorcet — Département Arts Graphiques — Bloc 3  
 Cours UI/UX – Prof. Strappazon  
 ---
